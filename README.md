@@ -14,10 +14,6 @@ Developer Portfolio is a web template made for developers to present themselves 
 - [File Structure](#file-structure)
 - [Author](#author)
 
-## Demo
-
-[Developer Portfolio demo link](https://developer-portfolio-gules.vercel.app/)
-
 ## Tech Stack
 
 **Frontend:** HTML5 / CSS3 / ReactJS / NextJS

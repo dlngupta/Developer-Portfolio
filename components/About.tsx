@@ -1,5 +1,6 @@
 import React from "react";
 import Image, { StaticImageData } from "next/image";
+import TechSkills from "./TechSkills";
 
 export default function About() {
     return (
@@ -35,6 +36,11 @@ export default function About() {
                 </div>
             </div>
 
+            <TechSkills />
+            
+            <div className="header flex gray projects">
+                <h1>My top projects</h1>
+            </div>
             <div className="flex partners justify-space">
                 <Image src="/images/partners/Farmers.jfif" height={45} width={180} alt="Famers Insurance" />
                 <Image src="/images/partners/jpm.jfif" height={45} width={180} alt="JPMorgan Chase" />
