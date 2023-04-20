@@ -10,7 +10,7 @@ export default function Footer() {
             <span className="white">Copyright © {year} <Link href="/">Ashok Reddy Indla</Link> - All rights reserved.</span>
             <ul className="flex">
                 <li>
-                    <a href="https://wa.me/+919948241288" target="_blank" rel="noreferrer">
+                    <a href="https://wa.me/+917989017790" target="_blank" rel="noreferrer">
                         <Image src="/icons/wa.jfif" width={24} height={24} alt="wattsup-icon" />
                     </a>
                 </li>
